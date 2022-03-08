@@ -10,6 +10,7 @@ A website that offers fitness training services.
 ## Website
 https://jham94.github.io/run-buddy/ 
 
+
 ## Contribution
 Made with ❤️ by [your name]
 
